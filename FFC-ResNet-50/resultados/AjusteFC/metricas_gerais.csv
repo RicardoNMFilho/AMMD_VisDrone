@@ -1,0 +1,2 @@
+Acuracia,Tempo_inferencia_seg,Imgs_por_seg,FLOPs,Parametros,Precision_micro,Recall_micro,F1_micro,Precision_macro,Recall_macro,F1_macro
+23.45,115.61,210.07,4633252864.0,28150250.0,0.2345,0.2345,0.2345,0.1209,0.1261,0.0844
